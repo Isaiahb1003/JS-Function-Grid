@@ -1,1 +1,24 @@
 //Write your function calls below this line
+setColor(0,0,"purple");
+setColor(9,0,"purple");
+setColor(0,9,"purple");
+setColor(9,9,"purple");
+setColor(2,2,"yellow");
+setColor(2,4,"yellow");
+setColor(3,1,"red");
+setColor(4,2,"red");
+setColor(4,3,"red");
+setColor(4,4,"red");
+setColor(3,5,"red");
+setColor(4,2,"red");
+setColor(5,4,"green");
+setColor(5,3,"green");
+setColor(5,2,"green");
+setColor(6,2,"green");
+setColor(7,3,"green");
+setColor(8,3,"green");
+setColor(8,2,"green");
+setColor(4,7,"red");
+setColor(5,7,"blue ");
+setColor(4,8,"blue");
+setColor(5,8,"red");
